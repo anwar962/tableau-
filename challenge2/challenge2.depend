@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1757331250 source:c:\users\pc\desktop\tableau\challenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+
